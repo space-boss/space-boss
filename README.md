@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Hej there 👋, I'm Irina </h1>
 
-<!--
-**space-boss/space-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> from urban planning to frontend development </h2>
 
-Here are some ideas to get you started:
+<h4>👩‍🎓<samp> Graduated from the 1 year-long web development course of Yandex Practicum </samp>
+<br> <br>
+🌱<samp> After the course I'm aiming to continue deep diving into React and want to learn a thing or two about building pleasant and functional interfaces </samp>
+<br> <br>
+⚓<samp> I live in Hamburg, DE and looking for a junior frontend developer position in the city or remotely </samp>
+<br> <br>
+📷<samp> Love 35mm film photography, craft beer and architecture </samp></h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space-boss&hide=stars,issues&show_icons=true&theme=buefy)](https://github.com/space-boss/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2  align="center">💻 <samp> Check Out My Repos </samp>⬇️ </h2>
