@@ -12,7 +12,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space-boss&hide=stars,issues&show_icons=true&theme=buefy)](https://github.com/space-boss/github-readme-stats)
+[![Space Boss GitHub stats](https://github-readme-stats.vercel.app/api?username=space-boss&hide=stars,issues&show_icons=true&theme=buefy)](https://github.com/space-boss/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space-boss&layout=compact)](https://github.com/space-boss/github-readme-stats)
 
